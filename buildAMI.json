@@ -4,8 +4,8 @@
         "ssh_username": "ubuntu",
         "base_ami": "ami-03ef731cc103c9f09",
         "instance_type": "t2.micro",
-        "subnet_id": "subnet-0ef916f3fe2feed88",
-        "temporary_security_group_source_cidrs": "34.240.63.82/32",
+        "subnet_id": "subnet-0b6ea61bc09444a4a",
+        "temporary_security_group_source_cidrs": "52.49.249.192/32",
         "associate_public_ip_address": "true"
     },
     "builders": [
