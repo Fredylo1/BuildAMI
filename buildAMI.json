@@ -21,8 +21,8 @@
             "associate_public_ip_address": "{{user `associate_public_ip_address`}}",
             "tags": {
                 "Name": "AMI_Pipiline"
-		"Port" : "443"
-		"ENV"  : "ubuntu server"
+                "Port": "443"
+                "ENV": "ubuntu server"
             }
         }
     ],
