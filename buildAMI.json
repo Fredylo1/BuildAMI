@@ -20,8 +20,8 @@
             "temporary_security_group_source_cidrs": "{{user `temporary_security_group_source_cidrs`}}",
             "associate_public_ip_address": "{{user `associate_public_ip_address`}}",
             "tags": {
-                "Name": "AMI_Pipiline"
-                "Port": "443"
+                "Name": "AMI_Pipiline",
+                "Port": "443",
                 "ENV": "ubuntu server"
             }
         }
